@@ -1,0 +1,28 @@
+.header{
+
+    height: 200px;
+    background-image: url('images.png');
+background-repeat: no-repeat;
+background-repeat: repeat-x;
+}
+
+
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+.blog{
+    margin: 40px;
+    border: 10px solid ;
+    box-shadow: 10px 10px whitesmoke;
+}
+.ven{
+    border: 2px solid ;
+    margin: 20px;
+    display: inline-block ;
+}

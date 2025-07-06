@@ -1,0 +1,92 @@
+.main{
+
+    width: 100%;
+    background: linear-gradient(to top,rgba(0, 0, 0, 0.089)50%,rgba(0, 0, 0, 0.062)50%),url(5630939.jpg);
+background-position: center;
+background-size: cover;
+height: 100vh;
+}
+.div1{
+    display: flex;
+    gap: 160px;
+    color: grey;
+}
+.searchbox{
+display: flex;
+gap: 0px;
+
+}
+.searchbox input{
+    color: grey;
+background-color: rgba(0, 0, 0, 0.879);
+    margin: 0px;
+    border: 2px solid orange;
+
+     /* padding: 1px 2px 3px 3px; */
+    border-radius: 1px;
+}
+.searchbox button{
+background-color: orange;
+ border: 2px solid black;
+/* padding: 2px ; */
+border-radius: 1px;
+}
+.highlight{
+
+    color: orange;
+}
+.div2{
+color: gainsboro;
+height: 30vh;    
+display: flex;
+    justify-content: left;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+#large{
+    
+font-size: 60px;
+margin-bottom: 10px;
+}
+.height{
+    color: grey;
+    font-size: 18px;
+    margin-left: 2px;
+    margin-top: 0px;
+    /* padding-bottom: 0; */
+    /* text-align: left; */
+    width: 700px;
+}
+.loginbox{
+    width: 250px;
+    height: 340px;
+    background: rgba(0, 0, 0, 0.826);
+    position: absolute;
+    top: 120px;
+    left: 870px;
+    border-radius: 10px;
+    padding: 25px;}
+.color{
+    color: orange;
+    text-align: center;
+}
+.loginbox input{
+    width: 80%;
+padding: 8px;
+margin: 10px ;
+border: 1px solid #ccc;
+border radius: 4px;
+}
+.loginbox button{
+    background-color: orange;
+    color:black;
+    border: none;
+    padding: 10px;
+    width 100%;
+}
+.xyz{
+ border-radius: 4px;
+    background-color: orange;
+}

@@ -1,0 +1,12 @@
+.xyz{
+    background-color: whitesmoke;
+    width: 40%;
+}
+.div1{
+
+    /* background-image:url(images.png); */
+    /* background-repeat: no-repeat; */
+display:inline block;
+width: 20%; 
+    /* background-position: 40%; */
+}
